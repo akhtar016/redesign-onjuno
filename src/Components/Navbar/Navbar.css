@@ -1,0 +1,52 @@
+#logo {
+    max-width: 100%;
+    height: 3rem;
+}
+
+
+
+.btn-login {
+        background-color: #fff;
+        border: 2px solid #4643ee;
+        border-radius: .625rem;
+        color: #4643ee;
+        width: 7.5rem;
+        height: 2.5rem;
+}
+
+.btn-sign-up {
+    width: 7.5rem;
+    margin-left: 1.25rem;
+    height: 2.5rem;
+    border-radius: .625rem;
+    outline: 0;
+    background: rgb(70,67,238);
+    color: white;
+}
+
+.dropdown-menu {
+    border: none;
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+}
+
+.dropdown-item:hover {
+    background-color: white;
+}
+
+.sign-up-btn-animation {
+    transition-duration: .75s;
+    transition-property: all;
+    transition-timing-function: linear;
+    font-size: 1rem;
+}
+
+.sign-up-btn-animation:hover {
+    box-shadow: inset 300px 0 0 #0f52ba;
+}
+
+.nav-link {
+    margin-left: 15px;
+    font-weight: 500;
+}
+
+

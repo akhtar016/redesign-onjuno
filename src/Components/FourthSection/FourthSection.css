@@ -1,0 +1,148 @@
+.card-body svg {
+    color: green;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.card-width {
+    width: 31%;
+}
+
+.fourth-sec-h-text {
+    font-weight: 500;
+    font-size: 48px;
+}
+    
+
+.fourth-sec-para {
+    margin: 0 auto;
+    font-size: 24px;
+    width: 60%;
+    color: #767676;
+    font-weight: 400;
+}
+
+.card-header {
+    background: #EEFDE2;
+    border-radius: 10px 10px 0 0;
+    border: none;
+}
+
+.card-header-img {
+    margin-top: -70px;
+}
+
+.card-header-text-1 {
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #373737;
+    letter-spacing: 0.25rem;
+    opacity: 0.8;
+    margin-top: 20px;
+}
+
+.card-header-span-1 {
+    font-size: 54px;
+    color: #4643ee;
+    font-weight: 700;
+}
+
+.card-header-span-2 {
+    color: gray;
+}
+
+.card-header-span-3 {
+    border-radius: 5px;
+    padding: 4px 4px 4px 8px;
+    font-weight: 700;
+    background: #00A86B;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.card-body-span-1 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #00A86B;
+}
+
+.card-body-span-2 {
+    font-size: 14px;
+    color: #767676;
+}
+
+.card-body-slot {
+    font-size: 12px;
+    color: #767676;
+    padding-top: 8px;
+}
+
+.progress {
+    border-radius: 10px;
+    height: 10px;
+}
+
+.progress-bar {
+    width: 89%;
+    border-radius:10px;
+    height: 10px;
+    background: linear-gradient(180deg, #00db8c, #00a86b);
+}
+
+.card-body-button {
+    border-radius: 0.625rem;
+    background: rgb(70, 67, 238);
+    font-weight: 700;
+    border: none;
+    font-size: 20px;
+}
+
+.card-body-h-text {
+    font-size: 18px;
+    color: #b2b2b2;
+    letter-spacing: 0.25rem;
+    margin-bottom: 20px;
+}
+
+.card-body-bullet {
+    font-size: 16px;
+    color: #373737;
+    font-weight: 500;
+}
+
+.card-body-p {
+    color: #767676;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.card-footer {
+    background: #c2f6e3;
+    border: none;
+    border-radius: 0 0 10px 10px; 
+}
+
+.card-footer-p {
+    font-size: 16px;
+    text-decoration: line-through;
+    font-weight: 500;
+}
+
+.card-footer-i {
+    font-size: 20px;
+    color: green;
+    padding-right: 10px;
+}
+
+.card-footer-h-text {
+    color: #068758;
+    font-size: 24px;
+    margin-top: 9px;
+    font-weight: 700;
+}
+
+.card-footer-p-text {
+    color: #068758;
+    font-size: 16px;
+    font-weight: 600;
+}

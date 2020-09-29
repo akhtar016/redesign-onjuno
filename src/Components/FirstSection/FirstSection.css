@@ -1,0 +1,42 @@
+#subscription-input {
+    outline: none;
+}
+
+form {
+    border-radius: 20px;
+}
+
+.main-header {
+    font-size: 5vw;
+}
+
+.secondary-header {
+    font-size: 24px; 
+    margin-top : 30px;
+}
+
+.fdic {
+    text-transform: capitalize; font-size:12px;
+    margin-left:15px; 
+    font-weight:700; 
+    color:gray;
+}
+
+.fdic-img {
+    object-fit: contain;
+    width: 4rem;
+    height: 2.5rem;
+}
+
+.flag {
+    width: 30px;
+    height: 20px;
+    object-fit: contain;
+}
+
+.flag-text {
+    color: #767676;
+    font-size: 16px;
+    margin-left: 13px;
+    font-weight: 500;
+}
